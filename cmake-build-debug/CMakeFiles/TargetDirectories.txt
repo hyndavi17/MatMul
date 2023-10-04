@@ -1,0 +1,3 @@
+/Users/hyndavi/code/matmul/cmake-build-debug/CMakeFiles/matmul.dir
+/Users/hyndavi/code/matmul/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hyndavi/code/matmul/cmake-build-debug/CMakeFiles/rebuild_cache.dir
